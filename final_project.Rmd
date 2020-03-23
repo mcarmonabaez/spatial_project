@@ -1,6 +1,6 @@
 ---
-title: "Tufte Handout"
-subtitle: "Final Project BIO:692"
+title: "Viendo en qué trabajar"
+subtitle: "Final Project BIOS:692"
 author:
   - "Mariana Carmona Baez"
   - "Jorge Moises Trejo Vargas"
